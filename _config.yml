@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Klaas Fiete Krutein"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/klaas-fiete-krutein/"
   orcid            : "https://orcid.org/0000-0002-1777-6994"
   pinterest        :
   soundcloud       :
@@ -112,7 +112,7 @@ author:
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
-  xing             :
+  xing             : "https://www.xing.com/profile/KlaasFiete_Krutein/cv"
   youtube          :
   wikipedia        :
 
