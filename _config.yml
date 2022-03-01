@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Klaas Fiete Krutein"
-  avatar           : "fiete_headshot.jpg"
+  avatar           : "fiete_headshot_square.jpg"
   bio              : "Operations Research Scientist"
   location         : "Seattle, WA, USA"
   employer         : "University of Washington, Seattle"
