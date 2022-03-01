@@ -6,6 +6,6 @@ excerpt: 'The examination of commercial pilot workload often requires the use of
 date: 2019-10-30
 venue: 'Proceedings of the Human Factors and Ergonomics Society Annual Meeting'
 paperurl: 'https://doi.org/10.1177/1071181319631524'
-citation: 'Krutein, K.F & Boyle, Linda Ng. (2019). &quot;Systematic approach for the design of flight simulator studies.&quot; <i>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</i>. 63(1).'
+citation: 'Krutein, K. F. & Boyle, L. N. (2019). &quot;Systematic approach for the design of flight simulator studies.&quot; <i>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</i>. 63(1).'
 ---
 [Download paper here](https://doi.org/10.1177/1071181319631524)
