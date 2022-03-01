@@ -2,11 +2,8 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src="/images/kfk.png?v=M44lzPylqQ"/>
-      <square150x150logo src="/images/kfk.png?v=M44lzPylqQ"/>
-      <square310x310logo src="/images/kfk.png?v=M44lzPylqQ"/>
-      <wide310x150logo src="/images/kfk.png?v=M44lzPylqQ"/>
-      <TileColor>#000000</TileColor>
+      <square150x150logo src="/images/kfk.png"/>
+      <TileColor>#da532c</TileColor>
     </tile>
   </msapplication>
 </browserconfig>
