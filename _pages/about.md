@@ -8,4 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+I am a Pre-Doctoral Research Associate at the [Supply Chain Transportation & Logistics Center](https://depts.washington.edu/sctlctr/) at the University of Washington. I received my Master's degree in Industrial Engineering at the University of Washington in Seattle and am currently working on my PhD degree. Throughout my graduate school experience I worked in supply chain and logistics related intern positions at Amazon and Tesla. Prior to graduate school I worked as a Supply Chain Improvement Manager at the aerospace manufacturer Airbus in Hamburg, Germany and Toulouse, France after completing my Bachelor's degree at the FH Nordakademie Hochschule der Wirtschaft in Industrial Engineering & Business Management. Originally from Kiel, Germany, I enjoy water and outdoor sports and have a close connection to Northern German cuisine. 
+
+I am mostly interested in problems that evolve around logistical challenges and decision making in goods and people movement. My current and previous research projects have focused on mainly two areas:
+
+Evacuation Modeling and Optimization for Isolated Communities
+=====
+
+This research mainly focuses on the modeling of evacuation routes for areas that cannot rely on road-based evacuation, such as islands and remote mountain valleys. Thus, a coordinated set of resources needs to be used to evacuate the population.  
+This problem is vastly understudied and increasingly relevant with increasing risks of disasters caused by natural hazards. A major contribution in this space is a new formulation for isolated community evacuation and corresponding solution methods. In this research we further collaborated with an isolated community on how to leverage such optimization tools together with ground level data and subject matter expertise. 
+
+Driver Decision Making and Routing in Urban Freight & Logistics 
+=====
+
+Most of my research in this space evolves around decision making for parking seeking behavior of commercial vehicles. We identified different types of inefficiencies that occur during parking seeking in urban areas. Our research furthermore investigated the effects of using an app for parking availability and the incorporation of expected parking availability in route optimization. 
+
+
 
