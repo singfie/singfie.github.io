@@ -1,5 +1,5 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "A Formulation and Solution Procedure for Optimal Evacuation Planning and Routing for Isolated Communities (ICEP)"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-11-05-informs-talk
