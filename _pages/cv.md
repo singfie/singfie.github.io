@@ -19,41 +19,48 @@ Education
 
 Work experience
 ======
-* Pre-Doctoral Research Associate @University of Washington -- Supply Chain Transportation & Logistics Center 
-* (June 2019 - Ongoing)
-  * Led collaboration with Municipality of Bowen Island in Canada and coordinated team of 2 people to develop evacuation plan. 
-  * Slashed estimated evacuation time of isolated communities by 70% through mixed-integer stochastic optimization model, solved through meta-heuristics. 
-  * Reduced route time for commercial trucks by 7% through combined OD-matrix estimation and route optimization framework that incorporates expected parking delays into vehicle routing. 
-  * Developed demand-driven mixed integer model to optimize the location of commercial vehicle loading zones in urban areas.
+* Pre-Doctoral Research Associate @University of Washington -- Supply Chain Transportation & Logistics Center
+  * (June 2019 - Ongoing)
+  * Accomplishments:
+    * Led collaboration with Municipality of Bowen Island in Canada and coordinated team of 2 people to develop evacuation plan. 
+    * Slashed estimated evacuation time of isolated communities by 70% through mixed-integer stochastic optimization model, solved through meta-heuristics. 
+    * Reduced route time for commercial trucks by 7% through combined OD-matrix estimation and route optimization framework that incorporates expected parking delays into vehicle routing. 
+    * Developed demand-driven mixed integer model to optimize the location of commercial vehicle loading zones in urban areas.
 
-* Research Scientist Intern 2 @Amazon 
-* (June 2021 - September 2021)
-  * Improved expected resource planning cost for trucks by approx. 15% through routing-based resource optimization model using robust optimization and column-generation decomposition techniques in nationwide logistic network. 
-  * Reduced manual adjustments in resource planning process by approx. 60% through flexible block-based resource planning tool.
+* Research Scientist Intern 2 @Amazon
+  * (June 2021 - September 2021)
+  * Accomplishments:
+    * Improved expected resource planning cost for trucks by approx. 15% through routing-based resource optimization model using robust optimization and column-generation decomposition techniques in nationwide logistic network. 
+    * Reduced manual adjustments in resource planning process by approx. 60% through flexible block-based resource planning tool.
 
 * Research Scientist Intern 1 @Amazon 
-* (June 2020 - September 2020)
-  * Saved $26M in fixed costs per year in North American middle mile logistics network through combined planning and routing of multiple value streams with a shared equipment fleet. 
-  * Reduced analysis time for equipment rightsizing and combined routing simulation from approx. 3 months to 12 hours of analysis time by leveraging big data warehousing, parallel computing and data pipeline integration.
+  * (June 2020 - September 2020)
+  * Accomplishments:
+    * Saved $26M in fixed costs per year in North American middle mile logistics network through combined planning and routing of multiple value streams with a shared equipment fleet. 
+    * Reduced analysis time for equipment rightsizing and combined routing simulation from approx. 3 months to 12 hours of analysis time by leveraging big data warehousing, parallel computing and data pipeline integration.
 
 * Research Assistant @University of Washington -- Dep. of Industrial Engineering 
-* (Sep 2018 - Jun 2019)
-  * Designed experiment, simulator set up, data collection, and analysis for a pilot workload study with flight simulator and developed systematic method for scenario selection. 
-  * Developed a simulation model for investigating the effect of urban traffic density-based vehicle guidance systems on traffic flow.
+  * (Sep 2018 - Jun 2019)
+  * Accomplishments:
+    * Designed experiment, simulator set up, data collection, and analysis for a pilot workload study with flight simulator and developed systematic method for scenario selection. 
+    * Developed a simulation model for investigating the effect of urban traffic density-based vehicle guidance systems on traffic flow.
 
 * Material Planner Intern @Tesla 
-* (Jun 2018 - Sep 2018)
-  * Reduced number of missing parts in warehouse by 10% through statistical data analysis and machine learning model to identify causes of missing parts and predict inventory shortage. 
-  * Streamlined cross-functional processes for improved material and information flow between three business units.
+  * (Jun 2018 - Sep 2018)
+  * Accomplishments:
+    * Reduced number of missing parts in warehouse by 10% through statistical data analysis and machine learning model to identify causes of missing parts and predict inventory shortage. 
+    * Streamlined cross-functional processes for improved material and information flow between three business units.
 
 * Supply Chain Improvement Manager @Airbus 
-* (Oct 2016 - Sep 2017)
-  * Reduced inventory capital tie-up by $100M through data-driven target-setting process for optimized inventory levels. 
-  * Collaborated with Business Transformation Director on 5 year road map for improved supply chain function, and managed the resulting project portfolio.
+  * (Oct 2016 - Sep 2017)
+  * Accomplishments:
+    * Reduced inventory capital tie-up by $100M through data-driven target-setting process for optimized inventory levels. 
+    * Collaborated with Business Transformation Director on 5 year road map for improved supply chain function, and managed the resulting project portfolio.
 
 * Co-op Rotational Internship Program @Airbus 
-* (Aug 2013 - Oct 2016)
-  * Completed project-based engineering internships in engineering, production, supply chain, and quality departments.
+  * (Aug 2013 - Oct 2016)
+  * Accomplishments:
+    * Completed project-based engineering internships in engineering, production, supply chain, and quality departments.
   
 Publications
 ======
