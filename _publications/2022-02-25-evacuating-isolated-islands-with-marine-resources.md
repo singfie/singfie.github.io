@@ -1,0 +1,11 @@
+---
+title: "Evacuating isolated islands with marine resources: A Bowen Island case study"
+collection: publications
+permalink: /publication/2022-02-25-evacuating-isolated-islands-with-marine-resources
+excerpt: 'Inhabited islands are susceptible to natural hazards, such as wildfires. To avoid disasters, preventative measures and guidelines need to be in place to strengthen community resilience. If these fail, evacuation is often the only choice. However, island evacuation is a vastly understudied problem in both research and practice, particularly for islands without permanent road connections to the mainland that require marine evacuation. Multiple vessel trips are necessary to evacuate the population from suitable access points, which previous studies did not entertain. Furthermore, most existing studies either focus on evacuations from an academic, or from a government perspective. Instead, this paper presents a collaborative approach. It applies a recently developed evacuation routing model that optimizes the evacuation plan for Bowen Island in Canada through minimizing the expected evacuation time across disaster scenarios. These were designed with the participation of a broad range of stakeholders, from local residents and volunteer groups to agencies from all levels of government and companies, which integrates both academic and practical perspectives to maximize solution quality. Different options for fleet sizes, staging locations and scenarios were considered. The results show that the optimized evacuation time for Bowen Island varies between 1 and 8 h, as it strongly depends on the disaster scenario, the evacuation fleet, and can be accelerated by temporary staging areas. The suitability of the approach for evacuation studies can be confirmed through the identification of key improvements for increased community resilience and the inclusion of the results in the official Bowen Island evacuation plan.'
+date: 2022-02-28
+venue: 'International Journal of Disaster Risk Reduction'
+paperurl: 'https://doi.org/10.1016/j.ijdrr.2022.102865'
+citation: 'Krutein, K. F., McGowan, J., & Goodchild, A. (2022). &quot;Evacuating isolated islands with marine resources: A Bowen Island case study.&quot; <i>International Journal of Disaster Risk Reduction</i>. 72(102865).'
+---
+[Download paper here](https://doi.org/10.1016/j.ijdrr.2022.102865)
