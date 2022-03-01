@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2020-11-05-informs-talk
 venue: "INFORMS Annual Meeting 2020"
-date: 2020-10-09
+date: 2020-11-05
 location: "Arlington, VA, USA (virtual)"
 ---
 
