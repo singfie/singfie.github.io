@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2020-02-17-meopar-talk
 venue: "3rd Workshop for Shipping Resilience: Strategic Planning for Coastal Community Resilience to Marine Transportation Risk (SIREN)"
-date: 2020-03-24
+date: 2020-02-17
 location: "Vancouver, BC, Canada"
 ---
 
