@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Industrial Engineering, University of Washington, USA, 2022 (expected)
-* M.S. in Industrial Engineering, University of Washington, USA, 2019
-* B.S. in Industrial Engineering & Business Management (Wirtschaftsingenieurwesen), FH Nordakademie Hochschule der Wirtschaft (University of Applied Sciences), Germany, 2017
+* Ph.D in Industrial Engineering, [University of Washington](https://ise.washington.edu), USA, 2022 (expected)
+* M.S. in Industrial Engineering, [University of Washington](https://ise.washington.edu), USA, 2019
+* B.S. in Industrial Engineering & Business Management (Wirtschaftsingenieurwesen), [FH Nordakademie Hochschule der Wirtschaft](https://www.nordakademie.de) (University of Applied Sciences), Germany, 2017
 
 Work experience
 ======
