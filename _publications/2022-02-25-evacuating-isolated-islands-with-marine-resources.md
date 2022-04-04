@@ -6,6 +6,6 @@ excerpt: 'Inhabited islands are susceptible to natural hazards, such as wildfire
 date: 2022-02-28
 venue: 'International Journal of Disaster Risk Reduction'
 paperurl: 'https://doi.org/10.1016/j.ijdrr.2022.102865'
-citation: 'Krutein, K. F., McGowan, J., & Goodchild, A. (2022). &quot;Evacuating isolated islands with marine resources: A Bowen Island case study.&quot; <i>International Journal of Disaster Risk Reduction</i>. 72(102865).'
+citation: 'Krutein, K. F., McGowan, J. & Goodchild, A. (2022). &quot;Evacuating isolated islands with marine resources: A Bowen Island case study.&quot; <i>International Journal of Disaster Risk Reduction</i>. 72(102865).'
 ---
 [Download paper here](https://doi.org/10.1016/j.ijdrr.2022.102865)
