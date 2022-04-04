@@ -81,4 +81,4 @@ Service and leadership
 Journal Referee Services
 ======
 * [Transportation Research Record](https://journals.sagepub.com/home/trr)
-* [Journal of Business Logistics](https://onlinelibrary.wiley.com/journal/21581592)
+* [Research in Transportation Business and Management](https://www.sciencedirect.com/journal/research-in-transportation-business-and-management)
