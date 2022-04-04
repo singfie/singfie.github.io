@@ -6,6 +6,6 @@ excerpt: 'As e-commerce and urban deliveries spike, cities grapple with managing
 date: 2021-01-01
 venue: 'Transportation Research Record: Journal of the Transportation Research Board'
 paperurl: 'https://doi.org/10.1177/03611981211003575'
-citation: 'Dalla Chiara, G., Krutein, K. F., Ranjbari, A., & Goodchild, A. (2021). &quot;Commercial Vehicle Driver Behaviors and Decision Making: Lessons Learned from Urban Ridealongs.&quot; <i>Transportation Research Record: Journal of the Transportation Research Board</i>. 2675(9).'
+citation: 'Dalla Chiara, G., Krutein, K. F., Ranjbari, A. & Goodchild, A. (2021). &quot;Commercial Vehicle Driver Behaviors and Decision Making: Lessons Learned from Urban Ridealongs.&quot; <i>Transportation Research Record: Journal of the Transportation Research Board</i>. 2675(9).'
 ---
 [Download paper here](https://doi.org/10.1177/03611981211003575)
