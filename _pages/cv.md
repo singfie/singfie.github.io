@@ -82,3 +82,7 @@ Journal Referee Services
 ======
 * [Transportation Research Record](https://journals.sagepub.com/home/trr)
 * [Research in Transportation Business and Management](https://www.sciencedirect.com/journal/research-in-transportation-business-and-management)
+
+Conference Session Leadership
+======
+* [METRANS International Conference on Urban Freight 2022](https://metrans.org/inuf-2022)
