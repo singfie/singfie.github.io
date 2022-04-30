@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](https://singfie.github.io/files/new_resume-11.pdf)
+[Resume](https://singfie.github.io/files/new_resume-13.pdf)
 
 Education
 ======
