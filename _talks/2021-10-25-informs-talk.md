@@ -8,3 +8,5 @@ date: 2021-10-25
 location: "Anaheim, CA, USA"
 ---
 
+[Presentation](https://singfie.github.io/files/2021_10_25_KruteinKF_project_presentation.pdf)
+
