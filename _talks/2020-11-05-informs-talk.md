@@ -8,4 +8,4 @@ date: 2020-11-05
 location: "Arlington, VA, USA (virtual)"
 ---
 
-
+[Presentation](https://singfie.github.io/files/2021_01_08_05_INFORMS_presentation.pdf)
