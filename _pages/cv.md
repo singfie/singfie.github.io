@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](https://singfie.github.io/files/Krutein_Fiete_resume.pdf)
+[Resume](https://singfie.github.io/files/Krutein_Fiete_resume-2.pdf)
 
 Education
 ======
