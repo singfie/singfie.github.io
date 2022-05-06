@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Klaas Fiete Krutein"
+name                     : &name "Klaas Fiete Krutein, Ph.D."
 description              : &description "Operations Research Scientist at University of Washington"
 url                      : https://singfie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
