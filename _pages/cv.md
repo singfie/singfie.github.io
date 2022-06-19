@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * Pre-Doctoral Research Associate @[University of Washington -- Supply Chain Transportation & Logistics Center](https://depts.washington.edu/sctlctr/)
-  * June 2019 - Ongoing
+  * June 2019 - June 2022
   * Accomplishments:
     * Led collaboration with Municipality of Bowen Island in Canada and coordinated team of 2 people to develop evacuation plan. 
     * Slashed estimated evacuation time of isolated communities by 70% through mixed-integer stochastic optimization model, solved through meta-heuristics. 
