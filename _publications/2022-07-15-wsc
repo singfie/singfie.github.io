@@ -3,8 +3,8 @@ title: "A Meta-Heuristic Solution Approach to Isolated Evacuation Problems"
 collection: publications
 permalink: /publication/2022-04-04-icep-mip
 excerpt: 'This paper provides an approximation method for the optimization of isolated evacuation operations, modeled through the recently introduced Isolated Community Evacuation Problem (ICEP). This routing model optimizes the planning for evacuations of isolated areas, such as islands, mountain valleys, or locations cut off through hostile military action or other hazards that are not accessible by road and require evacuation by a coordinated set of special equipment. Due to its routing structure, the ICEP is NP-complete and does not scale well. The urgent need for decisions during emergencies requires evacuation models to be solved quickly. Therefore, this paper investigates solving this problem using a Biased Random-Key Genetic Algorithm. The paper presents a new decoder specific to the ICEP, that allows to translate in between an instance of the S-ICEP and the BRKGA. This method approximates the global optimum and is suitable for parallel processing. The method is validated through computational experiments.'
-date: 2022-07-15
-venue: 'Proceedings Winter Simulation Conference'
+date: 2022-12-15
+venue: 'WSC '22: Proceedings of the Winter Simulation Conference'
 paperurl: ''
 citation: 'Krutein, K.F., Goodchild, A., & Boyle, L. (2022). &quot;A Meta-Heuristic Solution Approach to Isolated Evacuation Problems.&quot; <i>Proceedings Winter Simulation Conference</i>'
 ---
