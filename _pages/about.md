@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an Operations Research Scientist at [Convoy](https://convoy.com). I work on improving the network efficiency of the Convoy Freight Network and optimize load batching. 
+I am an Operations Research Scientist at [Convoy](https://convoy.com). I work on improving the network efficiency of the Convoy Freight Network and optimize load batching.
+
 Before my current position, I worked as a Pre-Doctoral Research Associate at the [Supply Chain Transportation & Logistics Center](https://depts.washington.edu/sctlctr/) at the University of Washington. I also received my Master's and Doctor of Philosophy degrees in Industrial Engineering at the [University of Washington](https://ise.washington.edu) in Seattle. Throughout my graduate school experience I worked in supply chain and logistics related intern positions at [Amazon](https://www.amazon.science) and [Tesla](https://www.tesla.com). Prior to graduate school I worked as a Supply Chain Improvement Manager at the aerospace manufacturer [Airbus](https://www.airbus.com/en) in Hamburg, Germany and Toulouse, France after completing my Bachelor's degree at the [FH Nordakademie Hochschule der Wirtschaft](https://www.nordakademie.de) in Industrial Engineering & Business Management. Originally from Kiel, Germany, I enjoy water and outdoor sports and have a close connection to Northern German cuisine. 
 
 I am mostly interested in problems that evolve around logistical challenges and decision making in goods and people movement. Previous research projects of mine have focused on mainly two areas:
