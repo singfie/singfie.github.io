@@ -8,3 +8,4 @@ date: 2022-05-03
 location: "Seattle, WA, USA"
 ---
 [Presentation](https://singfie.github.io/files/2022_05_02_KruteinKF_final_exam.pdf)
+[Abstract] (https://singfie.github.io/files/Dissertation_abstract_Krutein.pdf)
