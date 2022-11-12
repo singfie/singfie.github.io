@@ -21,6 +21,9 @@ Work experience
 ======
 * Operations Research Scientist @[Convoy, Inc.](https://convoy.com)
   * Since August 2022
+  * Accomplishments:
+    * Led the design of novel routing algorithm for maximizing utilization of time-based contracts.
+    * Drove strategic planning of new product ideas from a science perspective.
 
 * Pre-Doctoral Research Associate @[University of Washington -- Supply Chain Transportation & Logistics Center](https://depts.washington.edu/sctlctr/)
   * June 2019 - June 2022
