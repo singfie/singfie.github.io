@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [Resume](https://singfie.github.io/files/Krutein_Fiete_resume.pdf)
+
 [Full CV](https://singfie.github.io/files/academic_CV.pdf)
 
 Education
