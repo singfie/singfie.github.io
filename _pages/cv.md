@@ -11,7 +11,7 @@ redirect_from:
 
 [Resume](https://singfie.github.io/files/Krutein_Fiete_resume.pdf)
 
-[Full CV](https://singfie.github.io/files/academic_CV.pdf)
+[Full CV](https://singfie.github.io/files/Academic_CV.pdf)
 
 Education
 ======
