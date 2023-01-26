@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](https://singfie.github.io/files/Krutein_Fiete_resume.pdf)
+[Resume](https://singfie.github.io/files/krutein-resume.pdf)
 
 [Full CV](https://singfie.github.io/files/Academic_CV.pdf)
 
