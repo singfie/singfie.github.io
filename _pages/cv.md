@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](https://singfie.github.io/files/Krutein_Fiete_resume (7).pdf)
+[Resume](https://singfie.github.io/files/Krutein_Fiete_resume (9).pdf)
 
 [Full CV](https://singfie.github.io/files/Academic_CV.pdf)
 
@@ -25,7 +25,7 @@ Work experience
   * Since August 2022
   * Accomplishments:
     * Led research on optimally matching carriers to time-based contracts to reach a market equilibrium.
-    * Led the design and implementation of novel routing algorithm to maximize utilization of time-based carrier contracts through optimal route allocation of inter regional shipments.
+    * Led the design and implementation of novel routing algorithm to maximize utilization of time-based carrier contracts through optimal route allocation of inter regional shipments into production code.
     * Identified areas of improvement in existing routing and job scheduling infrastructure and reduced loss by XX%.
     * Led science part of strategic product planning and entitlement analysis for time-based contract driven shipment fulfillment.
 
