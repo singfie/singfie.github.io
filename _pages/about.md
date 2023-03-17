@@ -25,5 +25,11 @@ Driver Decision Making and Routing in Urban Freight & Logistics
 
 Most of my research in this space evolves around decision making for parking seeking behavior of commercial vehicles. We identified different types of inefficiencies that occur during parking seeking in urban areas. Our research furthermore investigated the effects of using an app for parking availability and the incorporation of expected parking availability in route optimization. 
 
+Timed Contracts in Dynamic Freight Marketplaces
+=====
+
+In this project my research focuses on how we efficiently can match carriers to time-based contracts instead of matching drivers to loads individually. Especially in local range freight delivery in high density areas, this tool allows substantial efficiency gains for the marketplace as this allows for efficient routing solutions, low empty miles, and a high flexibility in assigning loads despite disruptions. Carriers benefit from not having to worry about scheduling and a guarantee of time-based payments. Shippers benefit from dedication-like services. The problem in a dynamic marketplace then become how to match carriers to contracts effectively and efficiently. Our research here uses equilibrium-based marketplace optimization techniques to find solutions for this problem.  
+
+
 
 
